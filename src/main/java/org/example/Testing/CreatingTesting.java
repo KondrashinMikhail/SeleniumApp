@@ -12,7 +12,7 @@ public class CreatingTesting {
     private static WebElement buttonAdd;
     public CreatingTesting() throws InterruptedException {
         System.out.println("--------------------");
-        System.out.println("--TESTING CREATING--");
+        System.out.println("--TESTING CREATING---");
         System.out.println("--------------------");
         System.out.println(mailCreatingTesting("CARD", "111111", "st.Green", "Mikhail", "432010"));
         TimeUnit.SECONDS.sleep(1);
